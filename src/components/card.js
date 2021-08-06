@@ -17,6 +17,18 @@ const Card = (article) => {
   //   </div>
   // </div>
   //
+  const card = document.createElement('div')
+  const headLine = document.createElement('div')
+  const author = document.createElement('div')
+  const container = document.createElement('div')
+  const image = document.createElement('img')
+  const authorName = document.createElement('span')
+
+  card.classList.add('class')
+  headLine.classList.add('headline')
+  author.classList.add('author')
+  container.classList.add('img-container')
+  image
 }
 
 const cardAppender = (selector) => {
