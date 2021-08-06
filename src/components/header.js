@@ -21,7 +21,8 @@ header.classList.add('header')
 spanDate.classList.add('date')
 spanTemp.classList.add('temp')
 
-spanDate.textContent = date; 
+spanDate.textContent =  
+date; 
 h1.textContent = title;
 spanTemp.textContent = temp;
 
