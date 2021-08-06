@@ -65,7 +65,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+- its a data structure known as a tree where can can grab leaves or elements in order for us to manipulate them to our desire
 2. What is an event?
+- anytype of user interaction is an event
 3. What is an event listener?
+- listens for an event to occur like a click or a mouse over, sometype of action to occur and that produces that action to occur in the browser 
 4. Why would we convert a NodeList into an Array?
+- so that we can loop through the data easily and grab the info/api stuff easily 
 5. What is a component?
+- is like object where it contains special feuatures so that you dont have to write html over and over again and holds functions so that we dont also have to repeat ourselves. its like an outline template
